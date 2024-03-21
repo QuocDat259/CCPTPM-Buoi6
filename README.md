@@ -1,5 +1,6 @@
 #CV cá nhân
 ##Thông tin
+![alt text](img/anhDD.jpg)
 * Họ và tên: Triệu Quốc Đạt
 * MSSV : 2011064828
 * Lớp : 20DTHB5 
